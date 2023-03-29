@@ -1,0 +1,8 @@
+.navbar-lateral {
+    background: linear-gradient(90deg, #540667 31.54%, #6B0A83 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.menu-lateral{
+    background-color: #540667;
+    color: #FEF9F9;
+}
